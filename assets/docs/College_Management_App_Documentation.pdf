@@ -1,0 +1,167 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 800
+>>
+stream
+BT
+/F1 16 Tf
+50 750 Td
+(College Management System) Tj
+0 -30 Td
+/F1 12 Tf
+(Comprehensive College Management Application) Tj
+0 -20 Td
+/F2 10 Tf
+(Developed by: Harikrishnan G) Tj
+0 -15 Td
+(Email: harikrishnan14122000@gmail.com) Tj
+0 -30 Td
+/F1 14 Tf
+(FEATURES:) Tj
+0 -20 Td
+/F2 10 Tf
+(1. Attendance Management System) Tj
+0 -15 Td
+(- Track student attendance records) Tj
+0 -10 Td
+(- Generate attendance reports) Tj
+0 -10 Td
+(- Export attendance data to Excel) Tj
+0 -15 Td
+/F2 10 Tf
+(2. Hall Chart Generation) Tj
+0 -15 Td
+(- Create seating arrangements for exams) Tj
+0 -10 Td
+(- Generate hall charts with student details) Tj
+0 -10 Td
+(- Export hall charts as PDF) Tj
+0 -15 Td
+/F2 10 Tf
+(3. Exam Schedule Creation) Tj
+0 -15 Td
+(- Create and manage exam schedules) Tj
+0 -10 Td
+(- Assign subjects to time slots) Tj
+0 -10 Td
+(- Generate exam timetables) Tj
+0 -30 Td
+/F1 14 Tf
+(TECHNOLOGIES USED:) Tj
+0 -20 Td
+/F2 10 Tf
+(- Python 3.x) Tj
+0 -10 Td
+(- Tkinter (GUI Framework)) Tj
+0 -10 Td
+(- ReportLab (PDF Generation)) Tj
+0 -10 Td
+(- openpyxl (Excel Integration)) Tj
+0 -10 Td
+(- SQLite (Database)) Tj
+0 -30 Td
+/F1 14 Tf
+(KEY FEATURES:) Tj
+0 -20 Td
+/F2 10 Tf
+(- User-friendly GUI interface) Tj
+0 -10 Td
+(- Database integration for data storage) Tj
+0 -10 Td
+(- PDF and Excel export capabilities) Tj
+0 -10 Td
+(- Automated report generation) Tj
+0 -10 Td
+(- Data validation and error handling) Tj
+0 -30 Td
+/F1 14 Tf
+(APPLICATION SCREENSHOTS:) Tj
+0 -20 Td
+/F2 10 Tf
+(The application includes multiple windows for:) Tj
+0 -10 Td
+(- Student registration and management) Tj
+0 -10 Td
+(- Attendance marking interface) Tj
+0 -10 Td
+(- Hall chart generation tools) Tj
+0 -10 Td
+(- Exam schedule creation forms) Tj
+0 -10 Td
+(- Report generation and export) Tj
+0 -30 Td
+/F1 14 Tf
+(CONTACT INFORMATION:) Tj
+0 -20 Td
+/F2 10 Tf
+(For more details about this project,) Tj
+0 -10 Td
+(please contact: harikrishnan14122000@gmail.com) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+endobj
+
+6 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000274 00000 n 
+0000001075 00000 n 
+0000001326 00000 n 
+trailer
+<<
+/Size 7
+/Root 1 0 R
+>>
+startxref
+1427
+%%EOF
